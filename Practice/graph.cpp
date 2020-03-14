@@ -8,6 +8,7 @@ class Edge
     public:
     int src;
     int dest;
+    int ana;
 
 };
 
